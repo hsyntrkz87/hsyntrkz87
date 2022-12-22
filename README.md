@@ -70,10 +70,10 @@ hobbies: ["Gaming", "Basketball", "Reading Book", "Cooking", "Meditation"]
 <h2> 📫 &nbsp;Contact  </h2>
 <p align="left">
 <a href="http://huseyinturkoz.com/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  <img height="50" src="http://huseyinturkoz.com/icons/web.png"/>
 </a>
-<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png](https://dreambig.com.tr/assets/img/newhome/xfacebook.png.pagespeed.ic.AV7k0RdguO.webp"/>
+<a href="www.linkedin.com/in/hüseyin-türköz-ba3799120/">
+  <img height="50" src="http://huseyinturkoz.com/icons/linkedin.png"/>
 </a>
 <a href="https://thepiyushmalhotra.medium.com/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
