@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ```yaml
 name: Hüseyin Türköz
 located_in: Ankara, Türkiye
-age:26
 current_job: Full Stack Web Developer
 fields_of_interests:
   [
