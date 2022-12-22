@@ -1,7 +1,7 @@
 <img src="https://media0.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif"/> 
 
 
-<img src="https://media1.giphy.com/media/DhulSUWynvliwOmpOE/giphy.gif"/> 
+
 
 <!--
 **hsyntrkz87/hsyntrkz87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
