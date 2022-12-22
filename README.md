@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p>I'm Huseyin, and a 26 years old freelance software developer.  </p>
 <p>I have developed dozens of software projects and you can access and review some of them from the repository. </p> 
-<p>For more, you can visit my website <a href="huseyinturkoz.com"> </a>huseyinturkoz.com </p> 
+<p>For more, you can visit my website <a href="huseyinturkoz.com">huseyinturkoz.com</a> </p> 
 
 <h2> 🚀 &nbsp;Languages & Tools </h2>
 <p align="left">
