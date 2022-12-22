@@ -18,47 +18,29 @@ Here are some ideas to get you started:
 
 <h2>🔭 About Me </h2>
 
-<p>I'm Huseyin, and a 26 years old freelance software developer.  </p>
-<p>I have developed dozens of software projects and you can access and review some of them from the repository. </p> 
-<p>For more, you can visit my website <a href="huseyinturkoz.com">huseyinturkoz.com</a> </p> 
-
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
-
+name: Hüseyin Türköz
+located_in: Ankara, Türkiye
+age:26
+current_job: Full Stack Web Developer
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "UI/UX Design",
+    "Artificial Intelligence",
+    "Big Data",
   ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+ 
+currently_learning: ["React and Kotlin"]
+hobbies: ["Gaming", "Basketball", "Reading Book", "Cooking", "Meditation"]
 ```
   
 ---  
 
+<p>I'm Huseyin, and a 26 years old freelance software developer.  </p>
+<p>I have developed dozens of software projects and you can access and review some of them from the repository. </p> 
+<p>For more, you can visit my website <a href="huseyinturkoz.com">huseyinturkoz.com</a> </p> 
 
 <h2> 🚀 &nbsp;Languages & Tools </h2>
 <p align="left">
