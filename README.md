@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> 🚀 &nbsp;Some Languages And Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Languages & Tools </h2>
 <p align="left">
 
 
