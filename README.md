@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Welceme to my Github profile </h1>
+<h2>Welceme to my Github profile </h2>
 
 <!--
 **hsyntrkz87/hsyntrkz87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 -->
 
 <h2>🔭 About Me </h2>
+
+<p>I'm Huseyin, and a 26 years old freelance software developer.  </p>
+<p>I have developed dozens of software projects and you can access and review some of them from the repository. </p> 
+<p>For more, you can visit my website <a href="huseyinturkoz.com"> </a>huseyinturkoz.com </p> 
 
 <h2> 🚀 &nbsp;Languages & Tools </h2>
 <p align="left">
