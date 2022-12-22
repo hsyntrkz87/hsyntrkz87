@@ -70,7 +70,7 @@ hobbies: ["Gaming", "Basketball", "Reading Book", "Cooking", "Meditation"]
 <h2> 📫 &nbsp;Contact  </h2>
 <p align="left">
 <a href="http://huseyinturkoz.com/">
-  <img height="50" src="http://huseyinturkoz.com/icons/web.png"/>
+  <img height="50" src="http://huseyinturkoz.com/icons/web2.png"/>
 </a>
   
 <a href="https://www.behance.net/hsyntrkz/">
@@ -90,7 +90,7 @@ hobbies: ["Gaming", "Basketball", "Reading Book", "Cooking", "Meditation"]
 </a>
   
   <a href="https://steamcommunity.com/id/alighierinferno">
-  <img height="50" src="http://huseyinturkoz.com/icons/steam.png"/>
+  <img height="50" src="http://huseyinturkoz.com/icons/steam2.png"/>
 </a>
 
 </p>
