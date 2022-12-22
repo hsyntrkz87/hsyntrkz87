@@ -72,19 +72,12 @@ hobbies: ["Gaming", "Basketball", "Reading Book", "Cooking", "Meditation"]
 <a href="http://huseyinturkoz.com/">
   <img height="50" src="http://huseyinturkoz.com/icons/web.png"/>
 </a>
-<a href="www.linkedin.com/in/hüseyin-türköz-ba3799120/">
+<a href="http://www.linkedin.com/in/hüseyin-türköz-ba3799120/">
   <img height="50" src="http://huseyinturkoz.com/icons/linkedin.png"/>
 </a>
-<a href="https://thepiyushmalhotra.medium.com/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+
+ <a href="https://www.instagram.com/huseyinturkoz.js/">
+  <img height="50" src="http://huseyinturkoz.com/icons/instagram.png"/>
 </a>
-<a href="https://dev.to/thepiyushmalhotra">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a>
-<a href="https://twitter.com/Ipiyushmalhotra">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+
 </p>
