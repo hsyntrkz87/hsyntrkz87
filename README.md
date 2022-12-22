@@ -72,12 +72,25 @@ hobbies: ["Gaming", "Basketball", "Reading Book", "Cooking", "Meditation"]
 <a href="http://huseyinturkoz.com/">
   <img height="50" src="http://huseyinturkoz.com/icons/web.png"/>
 </a>
+  
+<a href="https://www.behance.net/hsyntrkz/">
+  <img height="50" src="http://huseyinturkoz.com/icons/behance.png"/>
+</a>
+  
 <a href="http://www.linkedin.com/in/hüseyin-türköz-ba3799120/">
   <img height="50" src="http://huseyinturkoz.com/icons/linkedin.png"/>
 </a>
 
- <a href="https://www.instagram.com/huseyinturkoz.js/">
+<a href="https://www.instagram.com/huseyinturkoz.js/">
   <img height="50" src="http://huseyinturkoz.com/icons/instagram.png"/>
+</a>
+  
+<a href="https://twitter.com/huseyinturkozjs">
+  <img height="50" src="http://huseyinturkoz.com/icons/twitter.png"/>
+</a>
+  
+  <a href="https://steamcommunity.com/id/alighierinferno">
+  <img height="50" src="http://huseyinturkoz.com/icons/steam.png"/>
 </a>
 
 </p>
