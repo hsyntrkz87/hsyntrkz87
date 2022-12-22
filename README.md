@@ -96,4 +96,4 @@ hobbies: ["Gaming", "Basketball", "Reading Book", "Cooking", "Meditation"]
 
 </p>
 
-<img src="media1.giphy.com/media/DhulSUWynvliwOmpOE/giphy.gif" /> 
+<img src="https://media1.giphy.com/media/DhulSUWynvliwOmpOE/giphy.gif"/> 
